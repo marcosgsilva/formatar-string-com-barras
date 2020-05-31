@@ -1,4 +1,4 @@
-const data = "543534\\tAPP\\t04/03/2020\\t150.0004440\\tFSDFSDF\\tCAIXA\\t3\\t0\\t21\\t\\n81934\\tAPLICAÇÃOFDSFDSFSDF EM POUPANÇA\\t18/03/2020\\t10.0000\\tAGENDADO\\tCAIXAFSDFSDF\\t3\\t0\\t21\\t\\n";
+const data = "543534\\tAPP\\t04/03/2020\\t150.0004440\\tFSDFSDF\\tCAIXA\\t3\\t0\\t21\\t\\n81934\\tAPLICAÇÃOFDSFDSFSDF EM POUPANÇA\\t18/03/2020\\t10.0000\\tAGENDADOD\\tCAIXAFSDFSDF\\t3\\t0\\t21\\t\\n";
 
 
 const atributos = ["teste1", "teste2", "teste3", "teste4", "teste5", "teste6", "teste7", "teste8", "teste9"];
